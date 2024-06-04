@@ -1,0 +1,4 @@
+﻿  FindLettersInWord.cpp
+D:\CODING\mocha\c++\bibli\FindLettersInWord\FindLettersInWord.cpp(24,1): warning C4715: find_letters_in_word: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\CODING\mocha\c++\bibli\x64\Debug\FindLettersInWord.lib и объект D:\CODING\mocha\c++\bibli\x64\Debug\FindLettersInWord.exp
+  FindLettersInWord.vcxproj -> D:\CODING\mocha\c++\bibli\x64\Debug\FindLettersInWord.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B17F8E4-25EB-4874-8EC1-E4040064BD0A}|bibli\\bibli.vcxproj|D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\bibli\\bibli.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B17F8E4-25EB-4874-8EC1-E4040064BD0A}|bibli\\bibli.vcxproj|solutionrelative:bibli\\bibli.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA6C4A-7CD5-4A01-A99A-D8BDC3E11466}|FindLettersInWord\\FindLettersInWord.vcxproj|D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\FindLettersInWord\\FindLettersInWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AA6C4A-7CD5-4A01-A99A-D8BDC3E11466}|FindLettersInWord\\FindLettersInWord.vcxproj|solutionrelative:FindLettersInWord\\FindLettersInWord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93AA6C4A-7CD5-4A01-A99A-D8BDC3E11466}|FindLettersInWord\\FindLettersInWord.vcxproj|D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\FindLettersInWord\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93AA6C4A-7CD5-4A01-A99A-D8BDC3E11466}|FindLettersInWord\\FindLettersInWord.vcxproj|solutionrelative:FindLettersInWord\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.h",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\FindLettersInWord\\Header.h",
+              "RelativeDocumentMoniker": "FindLettersInWord\\Header.h",
+              "ToolTip": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\FindLettersInWord\\Header.h",
+              "RelativeToolTip": "FindLettersInWord\\Header.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T12:01:51.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindLettersInWord.cpp",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\FindLettersInWord\\FindLettersInWord.cpp",
+              "RelativeDocumentMoniker": "FindLettersInWord\\FindLettersInWord.cpp",
+              "ToolTip": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\FindLettersInWord\\FindLettersInWord.cpp",
+              "RelativeToolTip": "FindLettersInWord\\FindLettersInWord.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T12:01:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bibli.cpp",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\bibli\\bibli.cpp",
+              "RelativeDocumentMoniker": "bibli\\bibli.cpp",
+              "ToolTip": "D:\\CODING\\mocha\\c\u002B\u002B\\bibli\\bibli\\bibli.cpp",
+              "RelativeToolTip": "bibli\\bibli.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T08:48:02.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

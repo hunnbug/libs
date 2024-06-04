@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8CC5B88-8D1E-4DD1-AD6C-8937515BEEA2}|Test\\Test.vcxproj|D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\Test\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8CC5B88-8D1E-4DD1-AD6C-8937515BEEA2}|Test\\Test.vcxproj|solutionrelative:Test\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E905FE00-72A4-4024-9C03-4AEDF1D9AD3E}|BubbleSortLib\\BubbleSortLib.vcxproj|D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\BubbleSortLib\\BubbleSortLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E905FE00-72A4-4024-9C03-4AEDF1D9AD3E}|BubbleSortLib\\BubbleSortLib.vcxproj|solutionrelative:BubbleSortLib\\BubbleSortLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E905FE00-72A4-4024-9C03-4AEDF1D9AD3E}|BubbleSortLib\\BubbleSortLib.vcxproj|D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\BubbleSortLib\\BubbleSortH.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E905FE00-72A4-4024-9C03-4AEDF1D9AD3E}|BubbleSortLib\\BubbleSortLib.vcxproj|solutionrelative:BubbleSortLib\\BubbleSortH.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSortH.h",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\BubbleSortLib\\BubbleSortH.h",
+              "RelativeDocumentMoniker": "BubbleSortLib\\BubbleSortH.h",
+              "ToolTip": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\BubbleSortLib\\BubbleSortH.h",
+              "RelativeToolTip": "BubbleSortLib\\BubbleSortH.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-04T06:57:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\Test\\Test.cpp",
+              "RelativeDocumentMoniker": "Test\\Test.cpp",
+              "ToolTip": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\Test\\Test.cpp",
+              "RelativeToolTip": "Test\\Test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T06:56:12.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleSortLib.cpp",
+              "DocumentMoniker": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\BubbleSortLib\\BubbleSortLib.cpp",
+              "RelativeDocumentMoniker": "BubbleSortLib\\BubbleSortLib.cpp",
+              "ToolTip": "D:\\CODING\\mocha\\c\u002B\u002B\\BubbleSortLib\\BubbleSortLib\\BubbleSortLib.cpp",
+              "RelativeToolTip": "BubbleSortLib\\BubbleSortLib.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T06:55:42.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
